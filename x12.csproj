@@ -33,13 +33,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ManyConsole, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\ManyConsole.1.0.0.1\lib\ManyConsole.dll</HintPath>
+      <HintPath>packages\ManyConsole.1.0.0.1\lib\ManyConsole.dll</HintPath>
     </Reference>
     <Reference Include="NDesk.Options, Version=0.2.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\NDesk.Options.0.2.1\lib\NDesk.Options.dll</HintPath>
+      <HintPath>packages\NDesk.Options.0.2.1\lib\NDesk.Options.dll</HintPath>
     </Reference>
     <Reference Include="OopFactory.X12, Version=3.0.8.1, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\OopFactory.X12.3.0.8.1\lib\net40\OopFactory.X12.dll</HintPath>
+      <HintPath>packages\OopFactory.X12.3.0.8.1\lib\net40\OopFactory.X12.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
